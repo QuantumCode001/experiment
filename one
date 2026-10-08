@@ -123,10 +123,7 @@
       <button class="btn-action" onclick="deleteDigit()">DEL</button>
       <button class="btn-operator" onclick="chooseOperation('÷')">÷</button>
 
-      <button onclick="appendNumber('7')">7</button>
-      <button onclick="appendNumber('8')">8</button>
-      <button onclick="appendNumber('9')">9</button>
-      <button class="btn-operator" onclick="chooseOperation('×')">×</button>
+      
 
       <button onclick="appendNumber('4')">4</button>
       <button onclick="appendNumber('5')">5</button>
